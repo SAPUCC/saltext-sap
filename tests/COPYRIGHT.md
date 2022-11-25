@@ -1,4 +1,4 @@
-SaltStack extension to handle generic SAP operations
+SaltStack extension for the SAP NetWeaver AS ABAP
 Copyright (C) 2022 SAP UCC Magdeburg
 
 This program is free software: you can redistribute it and/or modify

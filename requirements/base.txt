@@ -1,0 +1,4 @@
+salt>=3001
+requests
+saltext.sap-hostctrl
+saltext.sap-control
